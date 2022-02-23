@@ -1,22 +1,18 @@
 ## Acknowledgments
 
-We thank Byron David for designing and iterating on our playground environment. We would also like to thank Ofir Nachum, 
-Suraj Nair, Shane Gu, Chelsea Finn and Anusha Nagabandi for many fruitful discussions.
-
 This article was prepared using the [Distill](https://distill.pub) [template](https://github.com/distillpub/template).
 
 <h3 id="citation">Citation</h3>
 
 For attribution in academic contexts, please cite this work as
 
-<pre class="citation short">Gupta et al., "Relay Policy Learning: Solving Long Horizon Tasks via Imitation
- and Reinforcement Learning", Conference on Robot Learning (CoRL) 2019.</pre>
+<pre class="citation short">Gupta et al., "Demonstration-Augmented Autonomous Practicing via Multi-Task Reinforcement Learning (In Submission 2021).</pre>
 
 BibTeX citation
 
 <pre class="citation long">@article{lynch2019play,
-  title={Relay Policy Learning: Solving Long Horizon Tasks via Imitation and Reinforcement Learning},
-  author={Gupta, Abhishek and Kumar, Vikash and Lynch, Corey and Levine, Sergey and Hausman, Karol},
-  journal={Conference on Robot Learning (CoRL)},
-  year={2019}
+  title={Demonstration-Augmented Autonomous Practicing via Multi-Task Reinforcement Learning},
+  author={Gupta, Abhishek and Lynch, Corey and Kinman, Brandon and Peake, Garrett and Levine, Sergey and Hausman, Karol},
+  journal={arXiv},
+  year={2021}
 }</pre>
